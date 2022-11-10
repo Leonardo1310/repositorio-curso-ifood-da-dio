@@ -1,2 +1,2 @@
-# Desafio de Projeto sobre Git/Github da DIO
-Repositório criado para o desafio do projeto.
+# Projeto Ifood DIO
+Repositório criado para o projeto Ifood da DIO.
