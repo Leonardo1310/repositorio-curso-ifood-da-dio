@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios;
+package br.com.dio.Exercicios.EstruturasDeRepeticao;
 
 /*Faça um programa que calcula o fatorial de um número inteiro fornecido pelo usuário*/
 

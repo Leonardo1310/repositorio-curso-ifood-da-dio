@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios;
+package br.com.dio.Exercicios.EstruturasDeRepeticao;
 
 import java.util.Scanner;
 

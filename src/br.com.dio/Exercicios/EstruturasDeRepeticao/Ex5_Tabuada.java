@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios;
+package br.com.dio.Exercicios.EstruturasDeRepeticao;
 
 /*Desenvolva um gerador de tabuada capaz de gerar a tabuada de qualquer número iinteiro
 * entre 1 e 10. O usuário deve informar qual número ele deseja ver a tabuada.

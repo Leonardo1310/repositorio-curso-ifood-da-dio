@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios;
+package br.com.dio.Exercicios.EstruturasDeRepeticao;
 
 /*Faça um programa que peça uma nota entre 0 e 10
 * Motre uma mensagem caso o valor seja inválido e continue pedindo
