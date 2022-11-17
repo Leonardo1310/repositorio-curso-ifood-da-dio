@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios.DesafiosBasico;
+package br.com.dio.Exercicios.Desafios;
 
 /*Neste desafio, receba um número inteiro N,
  calcule e imprima o somatório de todos os números de N até 0.   */

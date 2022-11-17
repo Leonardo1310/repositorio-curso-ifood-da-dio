@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios.DesafiosBasico;
+package br.com.dio.Exercicios.Desafios;
 
 /*Neste desafio, dados dois números, verifique se eles
 * são iguais. Caso sejam, retorne "São iguais!". Caso

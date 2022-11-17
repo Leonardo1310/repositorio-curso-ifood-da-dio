@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios.DesafiosBasico;
+package br.com.dio.Exercicios.Desafios;
 
 /*Neste desafio, você terá que criar uma função que faça um número
 como argumento e retorne "Fizz", "Buzz" ou "FizzBuzz".

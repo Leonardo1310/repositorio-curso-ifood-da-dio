@@ -1,4 +1,4 @@
-package br.com.dio.Exercicios.DesafiosBasico;
+package br.com.dio.Exercicios.Desafios;
 
 /*Uma busca sequencial se caracteriza por percorrermos todos os  elementos de
 uma estrutura em busca do elemento “X” desejado.  Neste desafio, dada uma estrutura de vetor A [a1, a2...an],
